@@ -143,3 +143,28 @@ body, html
 {
     margin-bottom: 30px;
 }
+ .name {
+    text-align: center;
+    font-size: 40px;
+    background-color:#ED3232;
+    font-family: "arial black";
+    font-weight: 250;
+    font-style: italic;
+}
+.header1 {
+    text-align: center;
+    font-size: 25px;
+    font-style: italic;
+    font-family: "Georgia";
+}
+.header2 {
+    font-size:20px;
+    font-style: italic;
+    font-family: "Georgia";
+}
+.header3 {
+    font-size:20px;
+    font-style:bold italic;
+    font-family: "Georgia";
+
+}
