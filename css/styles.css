@@ -168,3 +168,22 @@ body, html
     font-family: "Georgia";
 
 }
+p {
+    font-size: 20px;
+
+}
+.page-wrapper {
+    background-color: #DFF1F7;
+    padding: 45px;
+    border:2px solid red;
+    border-radius: 15px;
+}
+.aboutme h3 {
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    
+     background-color:#ED3232;
+     font-weight: 600;
+     
+}
